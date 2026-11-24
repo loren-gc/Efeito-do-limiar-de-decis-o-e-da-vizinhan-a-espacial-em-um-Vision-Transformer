@@ -1,0 +1,1 @@
+# Efeito-do-limiar-de-decis-o-e-da-vizinhan-a-espacial-em-um-Vision-Transformer
